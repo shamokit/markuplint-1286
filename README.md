@@ -1,1 +1,5 @@
-# markuplint-1286
+```bash
+pnpm i
+
+pnpm dev
+```
